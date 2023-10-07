@@ -1,0 +1,121 @@
+<div class="row flex-nowrap content-wrapper slick-slider">
+	<div class="card-inner" >
+		<div class="card">
+			<img class="card-img-top loaded" data-lazy-id="147944" data-src=""
+			     src="https://www.unicef.de/img/197292/302x302/302/302/9e25736018e0ccf37be8386e92dd7e98/by/malaria-test-set.jpg">
+			<div class="card-body">
+				<h5 class="card-title">Malaria-Test-Set</h5>
+				<div class="row align-items-end">
+					<div class="col-5">
+						<p class="card-text"><span
+								class="un-price">7 €</span><small
+								class="un-packagingunit">pro Packung</small>
+						</p>
+					</div>
+					<div class="col-7">
+						<a href=""
+						   class="button-cta button-cta--smaller" tabindex="-1"><span>zum Produkt</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="card-inner" >
+		<div class="card">
+            <img class="card-img-top loaded" data-lazy-id="147960" data-src=""
+                 src="https://www.unicef.de/img/163944/302x302/302/302/2736ef60fd3e77d7e57b6969adac803d/gr/einmalhandschuhe-30er-pack.jpg">
+			<div class="card-body"><h5 class="card-title">Einmalhandschuhe |
+					30er Pack</h5>
+				<div class="row align-items-end">
+					<div class="col-5"><p class="card-text"><span
+								class="un-price">8 €</span><small
+								class="un-packagingunit">pro 30 Paar</small>
+						</p></div>
+					<div class="col-7"><a
+							href=""
+							class="button-cta button-cta--smaller"
+							tabindex="-1"><span>zum Produkt</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="card-inner" >
+		<div class="card"><img class="card-img-top loaded" data-lazy-id="191186"
+		                       data-src=""
+		                       src="https://www.unicef.de/img/191190/302x302/302/302/b7d06298455c5c66fc28d54b05727a0c/bG/geschenkpaket-gesund-aufwachsen.jpg">
+			<div class="card-body"><h5 class="card-title">Geschenkpaket "Gesund
+					aufwachsen"</h5>
+				<div class="row align-items-end">
+					<div class="col-5"><p class="card-text"><span
+								class="un-price">73 €</span><small
+								class="un-packagingunit">pro Paket</small>
+						</p></div>
+					<div class="col-7"><a
+							href=""
+							class="button-cta button-cta--smaller"
+							tabindex="-1"><span>zum Produkt</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="card-inner" >
+		<div class="card"><img class="card-img-top loaded" data-lazy-id="8626"
+		                       data-src=""
+		                       src="https://www.unicef.de/img/197304/302x302/302/302/52a03a3f6bf4509a6f6658acb6bb2fe7/Cb/moskitonetz.jpg">
+			<div class="card-body"><h5 class="card-title">Moskitonetz</h5>
+				<div class="row align-items-end">
+					<div class="col-5"><p class="card-text"><span
+								class="un-price">2 €</span><small
+								class="un-packagingunit">pro Stück</small>
+						</p></div>
+					<div class="col-7"><a
+							href=""
+							class="button-cta button-cta--smaller"
+							tabindex="-1"><span>zum Produkt</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="card-inner" >
+		<div class="card"><img class="card-img-top loaded" data-lazy-id="12204"
+		                       data-src=""
+		                       src="https://www.unicef.de/img/197242/302x302/302/302/360db495c61e18552742b5a006565058/BV/polio-impfstoff.jpg">
+			<div class="card-body"><h5 class="card-title">Polio-Impfstoff</h5>
+				<div class="row align-items-end">
+					<div class="col-5"><p class="card-text"><span
+								class="un-price">31 €</span><small
+								class="un-packagingunit">pro 200
+								Dosen</small></p></div>
+					<div class="col-7"><a
+							href=""
+							class="button-cta button-cta--smaller"
+							tabindex="-1"><span>zum Produkt</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="card-inner" >
+		<div class="card"><img class="card-img-top loaded" data-lazy-id="12206"
+		                       data-src=""
+		                       src="https://www.unicef.de/img/197244/302x302/302/302/e3a60b030581c22ae6a2693f1669e4f9/Pz/masern-impfstoff.jpg">
+			<div class="card-body"><h5 class="card-title">Masern-Impfstoff</h5>
+				<div class="row align-items-end">
+					<div class="col-5"><p class="card-text"><span
+								class="un-price">18 €</span><small
+								class="un-packagingunit">pro 50
+								Dosen</small></p></div>
+					<div class="col-7"><a
+							href=""
+							class="button-cta button-cta--smaller"
+							tabindex="-1"><span>zum Produkt</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

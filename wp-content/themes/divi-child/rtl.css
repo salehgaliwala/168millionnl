@@ -1,0 +1,9 @@
+/*
+Theme Name:     Divi Child
+Template:       Divi
+
+This is the child theme for Divi theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../Divi/rtl.css");

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "drewjbartlett/wordpress-eloquent": "^0.2.1",
+        "illuminate/pagination": "~5.4"
+    }
+}
